@@ -21,7 +21,10 @@
 * Znajomość ISTQB FL
 
 # Moja dokumentacja testowa 
-* Cypress Testy Automatyczne automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Cypress/tree/main/cypress)
+* Cypress Testy Automatyczne automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Cypress)
+* Selenium (Java) Testy Automatyczne automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Selenium)
+* Selenium (Java) Testy Automatyczne [Trello](https://github.com/MalgorzataGolebiewska/Trello-QA)
+* Postman testy API [Trello](https://github.com/MalgorzataGolebiewska/Trello-QA/tree/main/Trello-QA-Api-Tests)
 
 <!--
 **MalgorzataGolebiewska/MalgorzataGolebiewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
