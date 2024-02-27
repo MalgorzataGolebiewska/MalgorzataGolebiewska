@@ -1,4 +1,27 @@
-### Hi there 👋
+# Hi there 👋
+
+# O mnie
+
+# Narzędzia
+* Qase
+* TestLink
+* Jira
+* Trello
+* Postman
+* Git
+
+# Techniczne
+* Tworzenie scenariuszy
+* Tworzenie przypadków testowych
+* Tworzenie planu testów
+* Raportowanie bugów
+* Selenium (Java)
+* Cypress
+* SCRUM
+* Znajomość ISTQB FL
+
+# Moja dokumentacja testowa 
+* Cypress Testy Automatyczne automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Cypress/tree/main/cypress)
 
 <!--
 **MalgorzataGolebiewska/MalgorzataGolebiewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
