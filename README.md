@@ -20,11 +20,17 @@
 * SCRUM
 * Znajomość ISTQB FL
 
-# Moja dokumentacja testowa 
-* Cypress Testy Automatyczne automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Cypress)
-* Selenium (Java) Testy Automatyczne automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Selenium)
-* Selenium (Java) Testy Automatyczne [Trello](https://github.com/MalgorzataGolebiewska/Trello-QA)
-* Postman testy API [Trello](https://github.com/MalgorzataGolebiewska/Trello-QA/tree/main/Trello-QA-Api-Tests)
+# Dokumentacja
+### Testy Automatyczne
+* Cypress automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Cypress)
+* Selenium (Java) automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Selenium)
+* Selenium (Java) [Trello](https://github.com/MalgorzataGolebiewska/Trello-QA)
+* Postman API [Trello](https://github.com/MalgorzataGolebiewska/Trello-QA/tree/main/Trello-QA-Api-Tests)
+
+### Testy Manualne
+* Przypadki Testowe [AutomationExercise](https://github.com/MalgorzataGolebiewska/TestyManualne/blob/main/TC_AutomationExercise.xlsx)
+* Testy Eksploracyjne [skleptest.pl](https://github.com/MalgorzataGolebiewska/TestyManualne/blob/main/Testy_Eksploracyjne.xlsx)
+  
 
 <!--
 **MalgorzataGolebiewska/MalgorzataGolebiewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
