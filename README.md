@@ -2,7 +2,7 @@
 
 # O mnie
 
-# Narzędzia
+# :sparkles: Narzędzia
 * Qase
 * TestLink
 * Jira
