@@ -1,16 +1,9 @@
-# Hi there 👋
 
-# O mnie
+# :cherry_blossom: O mnie
+Jestem początkującym testerem manualnym, aktywnie rozwijającym się zarówno w kierunku testów manualnych jak i automatycznych.
+Wieloletnie doświadczenia nabyte w międzynarodowej korporacji zweryfikowały mnie jako osobę silnie zmotywowaną do nauki i rozwoju, która mimo wysokiej samodzielności świetnie współpracuje z innymi członkami zespołu.
 
-# :sparkles: Narzędzia
-* Qase
-* TestLink
-* Jira
-* Trello
-* Postman
-* Git
-
-# Techniczne
+# :key: Techniczne
 * Tworzenie scenariuszy
 * Tworzenie przypadków testowych
 * Tworzenie planu testów
@@ -20,7 +13,15 @@
 * SCRUM
 * Znajomość ISTQB FL
 
-# Dokumentacja
+# :unlock: Narzędzia
+* Qase
+* TestLink
+* Jira
+* Trello
+* Postman
+* Git
+
+# :clipboard: Dokumentacja
 ### Testy Automatyczne
 * Cypress automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Cypress)
 * Selenium (Java) automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Selenium)
