@@ -23,8 +23,8 @@ Wieloletnie doświadczenia nabyte w międzynarodowej korporacji zweryfikowały m
 
 # :clipboard: Dokumentacja
 ### Testy Automatyczne
-* Cypress automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Cypress)
-* Selenium (Java) automationexercise.com [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Selenium)
+* Cypress [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Cypress)
+* Selenium (Java) [Automation-Exercise-UI-Tests](https://github.com/MalgorzataGolebiewska/Automation-Exercise-UI-Tests-Selenium)
 * Selenium (Java) [Trello](https://github.com/MalgorzataGolebiewska/Trello-QA)
 * Postman API [Trello](https://github.com/MalgorzataGolebiewska/Trello-QA/tree/main/Trello-QA-Api-Tests)
 
